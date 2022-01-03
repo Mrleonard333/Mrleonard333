@@ -1,3 +1,3 @@
 - Programador Back-end
-- Gostaria de contribuir na contruçao de programas
-- Procura adiquirir mais esperiencia
+- Gostaria de contribuir na construção de programas
+- Procura adiquirir mais experiência
