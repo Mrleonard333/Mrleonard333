@@ -1,3 +1,3 @@
-- Programador Back-end de Python
+- Aprendendo Back-end em Python
 - Gostaria de contribuir na construção de programas
 - Procura adiquirir mais experiência
