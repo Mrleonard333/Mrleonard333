@@ -1,4 +1,4 @@
-- # Aprendendo Back-end com Python e Hacking/Pentest
+- # Aprendendo Back-end com Python e Segurança da informação
 - #### Gostaria de contribuir na construção de programas
 - #### Procura adiquirir mais experiência
 
