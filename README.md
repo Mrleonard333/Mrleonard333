@@ -5,13 +5,13 @@
  
  ### Principais ferramentas que uso
    - [**Mestasploit**](https://pt.wikipedia.org/wiki/Metasploit)
-   - [**Nmap**](https://nmap.org)
-   - [**Hydra**](https://hackersec.com/quebrar-senhas-download-thc-hydra/)
-   - [**Gobuster**](https://www.kali.org/tools/gobuster/)
-   - [**John**](https://www.openwall.com/john/)
+   - [**Nmap**](https://pt.wikipedia.org/wiki/Nmap)
+   - [**Hydra**](https://pt.wikipedia.org/wiki/Hydra_(software))
+   - [**Gobuster**](https://pt.wikipedia.org/wiki/gobuster)
+   - [**John**](https://pt.wikipedia.org/wiki/John_the_Ripper)
 
 ### Linguages que uso
-   - [**Python**](https://www.python.org)
+   - [**Python**]([https://www.python.org](https://pt.wikipedia.org/wiki/Python))
    - [**PHP**](https://pt.wikipedia.org/wiki/PHP)
    - [**Git**](https://pt.wikipedia.org/wiki/Git#:~:text=Git%20pronuncia-se%20%5Bgit%5D,no%20GitHub%20e%20escrito%20aos)
 
