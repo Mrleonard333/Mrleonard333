@@ -11,7 +11,7 @@
    - [**John**](https://pt.wikipedia.org/wiki/John_the_Ripper)
 
 ### Linguages que uso
-   - [**Python**]([https://www.python.org](https://pt.wikipedia.org/wiki/Python))
+   - [**Python**](https://pt.wikipedia.org/wiki/Python)
    - [**PHP**](https://pt.wikipedia.org/wiki/PHP)
    - [**Git**](https://pt.wikipedia.org/wiki/Git#:~:text=Git%20pronuncia-se%20%5Bgit%5D,no%20GitHub%20e%20escrito%20aos)
 
