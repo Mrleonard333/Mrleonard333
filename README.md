@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=37&color=F7F7F7&lines=Mr.leonard_;TH3-C0D3R_)](https://git.io/typing-svg)
+ 
  # *Estudando sobre a área de Segurança da Informação*
  ### - Gostaria de contribuir na construção de programas
  ### - Buscando sempre mais Experiencia
