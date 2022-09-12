@@ -9,7 +9,6 @@
 - ## **Automação**
 - ## **DataBase**
 - ## **MessageBroker**
-- ## **Machine-Leaning**
 
 ## Sempre buscando aprender mais, e obter mais experiência como programador.
 
