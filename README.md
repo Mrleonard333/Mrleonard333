@@ -5,7 +5,7 @@
 ### A principal linguagem que uso no momento é [**Python**](https://pt.wikipedia.org/wiki/python) <br> Mas tenho conhecimento sobre outras como [**C**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)) e [**Lua**](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação))
 
 ## Tenho experiência com:
-- ## **Web-Scraping**
+- ## **Data-Science**
 - ## **Automação**
 - ## **DataBase**
 - ## **MessageBroker**
