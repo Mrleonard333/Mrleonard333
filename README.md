@@ -6,7 +6,6 @@
 
 ## Tenho experiência com:
 - ## **Data-Science**
-- ## **Automação**
 - ## **DataBase**
 - ## **MessageBroker**
 
