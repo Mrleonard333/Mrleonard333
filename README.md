@@ -2,7 +2,7 @@
  
  # Back-End programer
  
-## A principal linguagem que uso no momento é [**Python**](https://pt.wikipedia.org/wiki/python) <br> Mas tenho conhecimento sobre outras como [**C**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)) e [**Lua**](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação))
+## A principal linguagem que uso no momento é [**Python**](https://pt.wikipedia.org/wiki/python) <br> Mas tenho conhecimento sobre outras como [**C**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)), [**Lua**](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação)) e [**php**](https://pt.wikipedia.org/wiki/PHP)
 
 ## Sempre buscando aprender mais, e obter mais experiência como programador.
 
