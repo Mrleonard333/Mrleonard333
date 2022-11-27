@@ -2,8 +2,8 @@
  
  # Back-End programer
  
-## A principal linguagem que uso no momento é [**Python**](https://pt.wikipedia.org/wiki/python) <br> Mas tenho conhecimento sobre outras como [**C**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)), [**Lua**](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação)) e [**PHP**](https://pt.wikipedia.org/wiki/PHP)
+## The main language i use at the moment is [**Python**](https://pt.wikipedia.org/wiki/python) <br> But i have knowledge in others like [**C**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)), [**Lua**](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação)) and [**PHP**](https://pt.wikipedia.org/wiki/PHP)
 
-## Sempre buscando aprender mais, e obter mais experiência como programador.
+## Always learning more, and trying to become more and more experienced.
 
 <div style="display: inline_block"><br> <img align="right" alt="Rafa-Python" height="152" width="152"src="https://cdn-icons-png.flaticon.com/512/5968/5968396.png"> </div>
