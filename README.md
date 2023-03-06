@@ -2,7 +2,7 @@
  
  # Back-End programer
  
-## The main language i use at the moment is [**Python**](https://pt.wikipedia.org/wiki/python). <br> But i have knowledge in others like [**C**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)), [**Lua**](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação)) and [**PHP**](https://pt.wikipedia.org/wiki/PHP)
+## The main language i use at the moment is [**Python**](https://pt.wikipedia.org/wiki/python). <br> But i have knowledge in others like [**C**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)), [**Lua**](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação)) and [**PHP**](https://pt.wikipedia.org/wiki/PHP).
 
 ## Always looking to learn more, and trying to become more experienced.
 
