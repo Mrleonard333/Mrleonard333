@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=F7F7F7&lines=Mr.leonard_;Python_;php_;Programmer_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=F7F7F7&lines=Mr.leonard_;The_Coder_)](https://git.io/typing-svg)
  
  # Back-End programer
  
